@@ -19,11 +19,8 @@ The Banking Management System is a application that simulates basic banking oper
     2. Modular exponentiation
 
 ## Installation
-1. Clone the repository:
-   bash
-   git clone https://github.com/CK172005/CS201_Project in an IDE
    
-2. Run Project
+1. Run Project
    bash
    Run the main.cpp file
    
