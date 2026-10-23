@@ -1,4 +1,4 @@
-# CS201_Project
+# Banking Management System
 
 ## Description
 The Banking Management System is a application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
